@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: url(unnamed.jpg);
+    background-size: auto;
+    align-items: center;
+    text-align: center;
+}
+.bucin {
+    color: #ffffff;
+}
+.bucin a {
+    font-size: 40px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.bucin a:hover {
+    color: rgb(250, 139, 120);
+}
+.bucin img {
+    width: 200px;
+}
